@@ -5,7 +5,7 @@ function App() {
   const [characterAlolowed , setCharacterAlolowed]= useState(false)
   const [password , setPassword]= useState('')
 
-  // useRef Hook
+  // useRef Hook is testing
 
   const passRef = useRef(null)
 
